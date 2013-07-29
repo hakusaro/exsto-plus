@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Exsto+"
+	"version"				"1.0"
+	"up_date"				""
+	"author_name"			"Lucas 'Shank' Nicodemus"
+	"author_email"			"shank@shanked.me"
+	"author_url"			"http://shanked.me/"
+	"info"				"Additions for Exsto that probably shouldn't be included by default."
+	"override"			"0"
+}
