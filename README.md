@@ -1,4 +1,4 @@
-# :sparkle:Exsto+:sparkle:
+# :sparkles:Exsto+:sparkles:
 
 These are the Exsto scripts that I add to my server (but are probably too much for Exsto's main featureset).
 
