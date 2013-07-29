@@ -11,6 +11,8 @@ PLUGIN:SetInfo({
   Disabled = false,
 } )
 
+-- This is heavily based on https://github.com/tyrantelf/gmod-mapvote/blob/master/lua/autorun/server/sv_autovote.lua
+-- Using raw hooks to avoid Exsto so that we can override TTT stuff.
 hook.Add( "Initialize", "AutoTTTMapVote", function()
   function CheckForMapSwitch()
      -- Check for mapswitch
